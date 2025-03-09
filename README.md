@@ -1,10 +1,8 @@
 # DataInsightExample
 Example project showing skills with analytical tools
 Python, Excel, PowerBI, SQL
-Highlights:
-  Python, SQLite, Pandas, SciPy, Statsmodels, Regression analysis, Excel, SQL, PowerBI, DAX Calculations, Seaborn, Matplotlib
-  KPI cards, Various charts, 
-Python imports: 
+Highlights:Python, SQLite, Pandas, SciPy, Statsmodels, Regression analysis, Excel, SQL, PowerBI, DAX Calculations, Seaborn, Matplotlib, KPI cards, Various charts. 	
+	Python imports: 
   import pandas as pd  
   import sqlite3  
   import statsmodels.api as sm  
