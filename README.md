@@ -18,10 +18,10 @@ Matplotlib,
 KPI cards,
 Various charts 	<br/><br/>
 Technologies & Libraries Used:<br/>
-  pandas – Data manipulation & analysis  
-  sqlite3 – Working with SQL databases  
-  statsmodels – Statistical modeling & regression analysis  
-  scipy.stats – Hypothesis testing (t-test) 
-  sql - for use with the superstore db file/sql database
-  matplotlib - data visualization and plotting
-  
+  pandas – Data manipulation & analysis  <br/>
+  sqlite3 – Working with SQL databases  <br/>
+  statsmodels – Statistical modeling & regression analysis  <br/>
+  scipy.stats – Hypothesis testing (t-test) <br/>
+  sql - for use with the superstore db file/sql database<br/>
+  matplotlib - data visualization and plotting<br/>
+  <br/>
